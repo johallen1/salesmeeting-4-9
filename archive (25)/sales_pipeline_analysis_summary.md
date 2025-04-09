@@ -2,7 +2,7 @@
 
 ## Key Sales Metrics
 
-- **Total Pipeline Value**: $379,390.00
+- **Total Prospect Pipeline Value**: $188,500
 - **Average Deal Size**: $3,049.01
 - **Win/Loss Ratio**: 14.60%
 
@@ -14,11 +14,10 @@
 | Qualified Lead | 8 | $28,200.00 |
 | Pricing Discussion | 19 | $76,750.00 |
 | Current Customer | 32 | $116,950.00 |
-| Unknown | 18 | $53,500.00 |
+| Meeting Scheduled | 21 | $75,500.00 |
 | Closed Lost | 15 | $45,950.00 |
 | Current Customer - Lost | 13 | $25,990.00 |
 | Lead Salvage | 4 | $2,000.00 |
-| Meeting Scheduled | 3 | $12,000.00 |
 | Potential Lead | 2 | $11,000.00 |
 
 ### Top Lead Sources by Value
