@@ -21,21 +21,6 @@
 | Meeting Scheduled | 3 | $12,000.00 |
 | Potential Lead | 2 | $11,000.00 |
 
-
-
-### Top 10 Companies by Value
-
-- **Zendi.co**: $10,000.00
-- **Kits**: $10,000.00
-- **Kut From Cloth**: $10,000.00
-- **LYB**: $10,000.00
-- **Lamour**: $10,000.00
-- **Legends**: $10,000.00
-- **Beast Bites**: $10,000.00
-- **Big Time Toys**: $10,000.00
-- **Bonnie and Pop**: $10,000.00
-- **Micro Labs**: $10,000.00
-
 ### Top Lead Sources by Value
 
 - **Fulfill**: $226,190.00
