@@ -78,3 +78,11 @@
 | Gold | $165,700.00 | $5,178.12 | 32 |
 | Silver | $146,050.00 | $1,896.75 | 77 |
 | Bronze | $38,640.00 | $568.24 | 68 |
+
+Key Observations:
+
+Platinum tier: 32 deals totaling $390,000 (53.1% of pipeline value)
+Gold tier: 32 deals totaling $164,200 (22.4% of pipeline value)
+Silver tier: 77 deals totaling $144,550 (19.7% of pipeline value)
+Bronze tier: 68 deals totaling $34,140 (4.6% of pipeline value)
+The Platinum tier has the highest average deal size at $9,1568, compared to just $568 for Bronze tier
