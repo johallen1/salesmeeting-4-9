@@ -27,7 +27,7 @@
 - **Internal**: $127,350.00
 - **3Peel**: $73,650.00
 - **Mike Hornigold**: $25,500.00
-- **John Renzi **: $16,000.00
+- **John Renzi**: $16,000.00
 - **Accelerate 360**: $1,500.00
 
 ## Time-Based Trends
