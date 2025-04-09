@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sales Pipeline Analysis Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { background-color: #4CAF50; color: white; padding: 20px; text-align: center; border-radius: 5px; margin-bottom: 20px; }
+        .metrics-container { display: flex; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px; }
+        .metric-box { background-color: white; border-radius: 5px; padding: 15px; margin-bottom: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); width: 23%; text-align: center; }
+        .metric-value { font-size: 24px; font-weight: bold; color: #4CAF50; }
+        .metric-label { font-size: 14px; color: #666; }
+        .chart-container { background-color: white; border-radius: 5px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .chart-title { font-size: 18px; margin-bottom: 10px; color: #333; }
+        .chart { width: 100%; height: auto; }
+        .two-column { display: flex; justify-content: space-between; flex-wrap: wrap; }
+        .column { width: 49%; }
+        @media (max-width: 768px) { .metric-box { width: 48%; } .column { width: 100%; } }
+        @media (max-width: 480px) { .metric-box { width: 100%; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Sales Pipeline Analysis Dashboard</h1>
+        </div>
+        
+        <div class="metrics-container">
+            <div class="metric-box">
+                <div class="metric-value">$646,390.00</div>
+                <div class="metric-label">Total Pipeline Value</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-value">$3,049.01</div>
+                <div class="metric-label">Average Deal Size</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-value">0.00</div>
+                <div class="metric-label">Win/Loss Ratio</div>
+            </div>
+            <div class="metric-box">
+                <div class="metric-value">212</div>
+                <div class="metric-label">Total Deals</div>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <div class="chart-title">Deal Distribution by Status</div>
+            <img class="chart" src="status_distribution.png" alt="Status Distribution">
+        </div>
+        
+        <div class="two-column">
+            <div class="column">
+                <div class="chart-container">
+                    <div class="chart-title">Pipeline Value by Status</div>
+                    <img class="chart" src="value_by_stage.png" alt="Value by Stage">
+                </div>
+            </div>
+            <div class="column">
+                <div class="chart-container">
+                    <div class="chart-title">Deal Size Distribution</div>
+                    <img class="chart" src="deal_size_distribution.png" alt="Deal Size Distribution">
+                </div>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <div class="chart-title">Deal Lead Performance</div>
+            <img class="chart" src="deal_lead_performance.png" alt="Deal Lead Performance">
+        </div>
+        
+        <div class="chart-container">
+            <div class="chart-title">Lead Source Performance</div>
+            <img class="chart" src="lead_source_performance.png" alt="Lead Source Performance">
+        </div>
+        
+        <div class="two-column">
+            <div class="column">
+                <div class="chart-container">
+                    <div class="chart-title">Win Rate by Lead Source</div>
+                    <img class="chart" src="win_rate_by_source.png" alt="Win Rate by Source">
+                </div>
+            </div>
+            <div class="column">
+                <div class="chart-container">
+                    <div class="chart-title">Performance by Tier</div>
+                    <img class="chart" src="tier_performance.png" alt="Tier Performance">
+                </div>
+            </div>
+        </div>
+        
+        <div class="chart-container">
+            <div class="chart-title">Quarterly Sales Trends</div>
+            <img class="chart" src="quarterly_trends.png" alt="Quarterly Trends">
+        </div>
+    </div>
+</body>
+</html>

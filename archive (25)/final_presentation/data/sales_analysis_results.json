@@ -1,0 +1,295 @@
+{
+  "total_pipeline_value": 646390.0,
+  "average_deal_size": 3049.009433962264,
+  "stage_counts": {
+    "Cold": 98,
+    "Current Customer": 32,
+    "Pricing Discussion": 18,
+    "Unknown": 18,
+    "Closed Lost": 14,
+    "Current Customer - Lost": 12,
+    "Qualified Lead": 8,
+    "Lead Salvage": 4,
+    "Meeting Scheduled": 3,
+    "Potential Lead": 2,
+    "Closed Lost ": 1,
+    "Pricing Discussion ": 1,
+    "Current Customer - lost": 1
+  },
+  "conversion_rates": {
+    "Cold to Qualified Lead": 0.08,
+    "Qualified Lead to Pricing Discussion": 2.25
+  },
+  "win_loss_ratio": 0.0,
+  "won_deals": 0,
+  "lost_deals": 14,
+  "status_distribution": {
+    "Cold": 98,
+    "Current Customer": 32,
+    "Pricing Discussion": 18,
+    "Unknown": 18,
+    "Closed Lost": 14,
+    "Current Customer - Lost": 12,
+    "Qualified Lead": 8,
+    "Lead Salvage": 4,
+    "Meeting Scheduled": 3,
+    "Potential Lead": 2,
+    "Closed Lost ": 1,
+    "Pricing Discussion ": 1,
+    "Current Customer - lost": 1
+  },
+  "pipeline_value_by_stage": {
+    "Closed Lost": 45950.0,
+    "Closed Lost ": 5000.0,
+    "Cold": 267000.0,
+    "Current Customer": 116950.0,
+    "Current Customer - Lost": 25990.0,
+    "Current Customer - lost": 50.0,
+    "Lead Salvage": 2000.0,
+    "Meeting Scheduled": 12000.0,
+    "Potential Lead": 11000.0,
+    "Pricing Discussion": 76750.0,
+    "Pricing Discussion ": 2000.0,
+    "Qualified Lead": 28200.0,
+    "Unknown": 53500.0
+  },
+  "top_deal_leads_by_value": {
+    "John Allen": 543590.0,
+    "Unknown": 102800.0
+  },
+  "top_deal_leads_by_count": {
+    "John Allen": 183,
+    "Unknown": 29
+  },
+  "top_companies_by_value": {
+    "Zendi.co": 10000.0,
+    "Kits": 10000.0,
+    "Kut From Cloth": 10000.0,
+    "LYB": 10000.0,
+    "Lamour": 10000.0,
+    "Legends": 10000.0,
+    "Beast Bites": 10000.0,
+    "Big Time Toys": 10000.0,
+    "Bonnie and Pop": 10000.0,
+    "Micro Labs": 10000.0
+  },
+  "top_lead_sources_by_value": {
+    "Fulfill": 226190.0,
+    "Matt Ratner": 176000.0,
+    "Internal": 123350.0,
+    "3Peel": 72450.0,
+    "Mike Hornigold": 25500.0,
+    "John Renzi ": 11000.0,
+    "John Renzi": 5000.0,
+    "Internal ": 4200.0,
+    "Accelerate 360": 1500.0,
+    "3Peel ": 1200.0
+  },
+  "top_lead_sources_by_count": {
+    "Fulfill": 77,
+    "Internal": 58,
+    "Matt Ratner": 36,
+    "3Peel": 23,
+    "Mike Hornigold": 6,
+    "John Renzi": 5,
+    "Internal ": 2,
+    "Accelerate 360": 2,
+    "John Renzi ": 2,
+    "3Peel ": 1
+  },
+  "lead_source_win_rates": {
+    "Fulfill": 0.0,
+    "Internal": 0.0,
+    "Matt Ratner": 0,
+    "Mike Hornigold": 0,
+    "3Peel": 0.0,
+    "John Renzi ": 0,
+    "Internal ": 0,
+    "John Renzi": 0,
+    "3Peel ": 0,
+    "Accelerate 360": 0
+  },
+  "monthly_deal_count": {
+    "2024-04": 62,
+    "2024-05": 13,
+    "2024-06": 7,
+    "2024-07": 8,
+    "2024-08": 17,
+    "2024-09": 8,
+    "2024-10": 13,
+    "2024-11": 6,
+    "2025-01": 23,
+    "2025-02": 34,
+    "2025-03": 10,
+    "2025-04": 9
+  },
+  "monthly_deal_value": {
+    "2024-04": 180540.0,
+    "2024-05": 35400.0,
+    "2024-06": 28300.0,
+    "2024-07": 11500.0,
+    "2024-08": 39000.0,
+    "2024-09": 15000.0,
+    "2024-10": 37400.0,
+    "2024-11": 25500.0,
+    "2025-01": 59050.0,
+    "2025-02": 135700.0,
+    "2025-03": 37000.0,
+    "2025-04": 38000.0
+  },
+  "quarterly_deal_count": {
+    "2024Q2": 82,
+    "2024Q3": 33,
+    "2024Q4": 19,
+    "2025Q1": 67,
+    "2025Q2": 9
+  },
+  "quarterly_deal_value": {
+    "2024Q2": 244240.0,
+    "2024Q3": 65500.0,
+    "2024Q4": 62900.0,
+    "2025Q1": 231750.0,
+    "2025Q2": 38000.0
+  },
+  "lead_source_performance": [
+    {
+      "Lead Source": "3Peel",
+      "Total Value": 72450.0,
+      "Average Value": 3150.0,
+      "Deal Count": 23
+    },
+    {
+      "Lead Source": "3Peel ",
+      "Total Value": 1200.0,
+      "Average Value": 1200.0,
+      "Deal Count": 1
+    },
+    {
+      "Lead Source": "Accelerate 360",
+      "Total Value": 1500.0,
+      "Average Value": 750.0,
+      "Deal Count": 2
+    },
+    {
+      "Lead Source": "Fulfill",
+      "Total Value": 226190.0,
+      "Average Value": 2937.5324675324673,
+      "Deal Count": 77
+    },
+    {
+      "Lead Source": "Internal",
+      "Total Value": 123350.0,
+      "Average Value": 2126.7241379310344,
+      "Deal Count": 58
+    },
+    {
+      "Lead Source": "Internal ",
+      "Total Value": 4200.0,
+      "Average Value": 2100.0,
+      "Deal Count": 2
+    },
+    {
+      "Lead Source": "John Renzi",
+      "Total Value": 5000.0,
+      "Average Value": 1000.0,
+      "Deal Count": 5
+    },
+    {
+      "Lead Source": "John Renzi ",
+      "Total Value": 11000.0,
+      "Average Value": 5500.0,
+      "Deal Count": 2
+    },
+    {
+      "Lead Source": "Matt Ratner",
+      "Total Value": 176000.0,
+      "Average Value": 4888.888888888889,
+      "Deal Count": 36
+    },
+    {
+      "Lead Source": "Mike Hornigold",
+      "Total Value": 25500.0,
+      "Average Value": 4250.0,
+      "Deal Count": 6
+    }
+  ],
+  "deal_size_performance": [
+    {
+      "Deal Size Category": "Small (<$1K)",
+      "Total Value": 54590.0,
+      "Deal Count": 89,
+      "Win Rate": 0.0
+    },
+    {
+      "Deal Size Category": "Medium ($1K-$5K)",
+      "Total Value": 190800.0,
+      "Deal Count": 80,
+      "Win Rate": 0.0
+    },
+    {
+      "Deal Size Category": "Large ($5K-$10K)",
+      "Total Value": 401000.0,
+      "Deal Count": 43,
+      "Win Rate": 0.0
+    },
+    {
+      "Deal Size Category": "Enterprise (>$10K)",
+      "Total Value": 0.0,
+      "Deal Count": 0,
+      "Win Rate": 0.0
+    }
+  ],
+  "deal_lead_performance": [
+    {
+      "Deal Lead": "John Allen",
+      "Total Value": 543590.0,
+      "Average Value": 2970.437158469945,
+      "Deal Count": 183,
+      "Win Rate": 0.0
+    },
+    {
+      "Deal Lead": "Unknown",
+      "Total Value": 102800.0,
+      "Average Value": 3544.8275862068967,
+      "Deal Count": 29,
+      "Win Rate": 0.0
+    }
+  ],
+  "tier_performance": [
+    {
+      "Tier": "Bronze",
+      "Total Value": 38640.0,
+      "Average Value": 568.2352941176471,
+      "Deal Count": 68,
+      "Win Rate": 0.0
+    },
+    {
+      "Tier": "Gold",
+      "Total Value": 165700.0,
+      "Average Value": 5178.125,
+      "Deal Count": 32,
+      "Win Rate": 0.0
+    },
+    {
+      "Tier": "Platinum",
+      "Total Value": 293000.0,
+      "Average Value": 9156.25,
+      "Deal Count": 32,
+      "Win Rate": 0.0
+    },
+    {
+      "Tier": "Silver",
+      "Total Value": 146050.0,
+      "Average Value": 1896.7532467532467,
+      "Deal Count": 77,
+      "Win Rate": 0.0
+    },
+    {
+      "Tier": "Unknown",
+      "Total Value": 3000.0,
+      "Average Value": 1000.0,
+      "Deal Count": 3,
+      "Win Rate": 0.0
+    }
+  ]
+}
