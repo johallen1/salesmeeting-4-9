@@ -4,7 +4,7 @@
 
 - **Total Pipeline Value**: $646,390.00
 - **Average Deal Size**: $3,049.01
-- **Win/Loss Ratio**: 20.00%
+- **Win/Loss Ratio**: 14.60%
 
 ## Pipeline Distribution by Stage
 
